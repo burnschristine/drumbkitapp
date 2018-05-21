@@ -15,6 +15,7 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
+    is-free: false
 - scope:
     path: ''
     type: pages
